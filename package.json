@@ -1,0 +1,20 @@
+{
+  "name": "LIRI",
+  "version": "1.0.0",
+  "description": "This app is the hub for your users entertainment. Users can quickly and easily access popular songs, concert venues, and movie information in one place.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMo911/LIRI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JMo911/LIRI/issues"
+  },
+  "homepage": "https://github.com/JMo911/LIRI#readme"
+}
